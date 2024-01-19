@@ -63,7 +63,7 @@
 
 ### FRONT END
 
-> View the [Front-end](https://github.com/leloufadel/hello-react-frontend/) part of the project here.
+> View the [Front-end](https://github.com/leloufadel/hello-react-frontend/tree/setup) part of the project here.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
